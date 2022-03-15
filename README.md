@@ -29,6 +29,13 @@
 ### Caption
 **Brown dog is walking through snow**
 
+### Input Image
+<img src="https://user-images.githubusercontent.com/59358031/158338664-a0098b74-b078-4d7a-b944-af38d7cd0117.png" width=30% height=20%>
+
+### Caption
+**Man with backpack is sitting on rock overlooking valley**
+
+
 
 # Explaining Encoder and Decoder
   ## Encoder: 
